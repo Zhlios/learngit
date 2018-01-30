@@ -1,9 +1,0 @@
-helloworld.
-git is a free software
-
-测试demo
-
-测试不需要密码
-
-测试不需要密码
-creat a new branch  is guick
